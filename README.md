@@ -1,5 +1,5 @@
 ## PythonScripting
-This is a script python used to scrap data and the data saved to an Excel file.
+This is a script python used to scrape data and the data saved to an Excel file.
 
 ---
 
